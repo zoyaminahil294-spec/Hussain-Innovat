@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps help search engines find your innovations faster
+Sitemap: https://hussaininnovat.com/sitemap.xml

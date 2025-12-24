@@ -1,0 +1,7 @@
+{
+  "name": "Hussain Innovat",
+  "description": "A cutting-edge e-commerce platform for Hussain Innovat, featuring an AI-powered product management system and a seamless shopping experience for resellers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
